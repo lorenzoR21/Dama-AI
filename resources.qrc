@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>graphics/damaW.png</file>
+    <file>graphics/damaB.png</file>
+    <file>graphics/pawnW.png</file>
+    <file>graphics/pawnB.png</file>
+	<file>graphics/icon.png</file>
+	<file>graphics/menu.png</file>
+	<file>graphics/about.png</file>
+	<file>graphics/classification.png</file>
+	<file>graphics/draw.png</file>
+	<file>graphics/undo.png</file>
+	<file>graphics/hint.png</file>
+	<file>graphics/clear.png</file>
+</qresource>
+</RCC>
